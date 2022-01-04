@@ -1,7 +1,7 @@
 #Portifolio
 
 <h1 align="center">
-    <img alt="Portifolio-WesleiFrança" src="./fotos/home-portifolio.png" />
+    <img alt="Portifolio-WesleiFrança" src="./fotos/Home-Portifolio.png" />
 </h1>
 
 <h4 align="center"> 
@@ -20,9 +20,9 @@ O layout será feito em quatro páginas sendo elas: Home, Sobre Mim, Meus Projet
 
 ### Sobre o Projeto
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-   <img width="965px" src="https://media.giphy.com/media/DtWEyl3Lz5ED1cpiO8/giphy.gif" alt="Gif do site">
-</p>
+<h1>
+    <img width="965px" src="https://media.giphy.com/media/DtWEyl3Lz5ED1cpiO8/giphy.gif">
+</h1>
 
 ### O que falta ser feito
 
