@@ -1,7 +1,7 @@
 #Portifolio
 
 <h1 align="center">
-    <img alt="Portifolio-WesleiFrança" src="./fotos/img-project.png" />
+    <img alt="Portifolio-WesleiFrança" src="./fotos/home-portifolio.png" />
 </h1>
 
 <h4 align="center"> 
@@ -18,23 +18,11 @@ Esse é o meu Portifolio, onde falo mais sobre mim e os meus projetos. Estou faz
 
 O layout será feito em quatro páginas sendo elas: Home, Sobre Mim, Meus Projetos e Contatos
 
-### Home
+### Sobre o Projeto
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Home"  src="./fotos/img-project.png" width="700px">
-
+   <img width="965px" src="https://media.giphy.com/media/DtWEyl3Lz5ED1cpiO8/giphy.gif" alt="Gif do site">
 </p>
-
-### Sobre Mim
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Sobre-mim"  src="./fotos/img-project-skills.png" width="700px">
-
-</p>
-
-<h3 align="center">
-    <a href="https://wesleipossidonio.github.io/Portifolio/">Acessar a demonstração</a>
-<h3 >
 
 ### O que falta ser feito
 
@@ -42,6 +30,7 @@ O que já foi feito:
 
 - [x] Criação HTML
 - [x] Criação CSS
+- [ ] Criação JavaScript
 - [ ] Reponsividade
 - [ ] Meus Projetos e Contatos
 - [ ] Colocar os links nos botões.
